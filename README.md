@@ -4,8 +4,6 @@
 
 ### Python virtual environment
 
-> NOTE: It is recommended to run on `python2`. Support for using the Apache Beam SDK for Python 3 is in a prerelease state [alpha](https://cloud.google.com/products/?hl=EN#product-launch-stages) and might change or have limited support.
-
 Install a [Python virtual environment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments).
 Run the following to set up and activate a new virtual environment:
 
